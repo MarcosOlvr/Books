@@ -9,11 +9,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f73d227d-afdd-4920-aa4d-e0d72878617b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Books.Api/Controllers/BookController.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Books.Api/Models/Book.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Books/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Books/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Books.Api/Repositories/BookRepository.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Books.Api/Repositories/Contracts/IBookRepository.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Books/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Books/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Books.Api/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Books.Api/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,6 +92,8 @@
       <workItem from="1743018136632" duration="42000" />
       <workItem from="1743103610429" duration="897000" />
       <workItem from="1743189069509" duration="1740000" />
+      <workItem from="1743450470560" duration="985000" />
+      <workItem from="1743451622240" duration="75000" />
     </task>
     <servers />
   </component>
